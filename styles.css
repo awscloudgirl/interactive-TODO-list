@@ -1,0 +1,10 @@
+body {
+    font-family: Poppins, Arial;
+    color: black;
+    background-color: white;
+}
+input, button {
+    margin: 10px;
+}
+
+
